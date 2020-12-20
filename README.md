@@ -6,7 +6,7 @@ goformation Go module to compose templates.
 
 ## Setup
 
-The templates within the `templates` directory must first be
+The templates within the `cf-templates` directory must first be
 built into Go plugin (.so) files so that they can be dynamically
 loaded without the user having to know their paths etc. To do
 this, run `make plugins` from within the root directory of the
